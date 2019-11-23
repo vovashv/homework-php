@@ -1,0 +1,7 @@
+body{
+<?=$color_b?>;
+}
+
+.span-color{
+<?=$color_s?>;
+}
