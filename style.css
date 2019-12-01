@@ -1,7 +1,21 @@
-body{
-<?=$color_b?>;
-}
 
-.span-color{
-<?=$color_s?>;
+.text_l {
+    width: 50;
+    wi
+}
+#top {
+    position: fixed;
+    right: 30px;
+    bottom: 30px;
+
+    background: url(//upst.fwdcdn.com/img/portal/main/icon-top.svg) no-repeat 0 0 / 100% 100%;
+    background-image: url(//upst.fwdcdn.com/img/portal/main/icon-top.svg);
+    background-position-x: 0px;
+    background-position-y: 0px;
+    background-size: 200% 200%;
+    
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
 }
